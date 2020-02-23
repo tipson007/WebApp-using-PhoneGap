@@ -1,2 +1,2 @@
-# project001
+# Quiz App
 A Responsive web application using PhoneGap
